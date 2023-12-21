@@ -1,0 +1,106 @@
+  @import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Handlee&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Patua+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Tomorrow&display=swap');
+
+main {
+  width: 350px;
+  height: 700px;
+  margin: auto;
+  border: 3px solid #cecece;
+  background-color: #A20D32;
+  text-align: center;
+  overflow-x: hidden;
+}
+.header {
+  background-color: #019C4A;
+  text-align: center;
+  color: #F7FFF6;
+  font-family: 'Itim', cursive;
+  border-bottom: 1px solid #D7593E;
+}
+.Namecard {
+  text-path: href="#path-1";
+  color: #FFD700;
+}
+#rabbit {
+  align-items: center;
+}
+.desc{
+  color: #FFD02B;
+  width: 20%;
+  font-family: 'Handlee', cursive;
+}
+#Home {
+  font-family: 'Arial', cursive;
+  justify-content: center;
+}
+#Name {
+  font-size: 45px;
+  text-decoration: bold;
+  -webkit-text-stroke: 2px #030001;
+  font-family: 'Patua One', serif;
+  justify-content: center;
+}
+.Label {
+  color: #ffffff;
+  font-family: 'Tomorrow', sans-serif;
+}
+.MacCheese {
+  color: #f7d700;
+  border-bottom: 1px solid #E59A17;
+}
+.grain {
+  width: 15%;
+}
+#Type {
+  font-size: 150%;
+}
+#Pasta {
+  font-size: 80%;
+}
+#Blend {
+  font-size: 80%;
+}
+#List {
+  background-color: #059548;
+  translate: rotate 100px;
+  text-align: left;
+  font-family: 'Itim', cursive;
+  color: #E1FFEB;
+  width: 70%;
+}
+.Good {
+  color: #F8E10A;
+  border: 1px solid #FEDF06;
+}
+#List2 {
+  padding-left: 20px;
+}
+.TM {
+  color: #F2903A;
+  font-size: 6%
+}
+#spoon-container {
+  position: relative;
+  transform: translateX(34%) translateY(-135px) rotate(-10deg);
+}
+#spoon-container #Mac {
+  position: absolute;
+  top: 45%;
+  left: 0;
+  transform-origin: top left;
+  transform: scale(0.45);
+}
+#Spoon {
+  width: 95%;
+  transform: rotate(-45deg);
+  overflow: hidden;
+}
+#Cheesy {
+  text-align: left;
+  margin-left: 30px;
+  color: #ffffff;
+  text-decoration: bold;
+}
+
